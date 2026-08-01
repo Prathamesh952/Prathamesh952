@@ -84,16 +84,6 @@ Power BI • Tableau • Excel • SQL • MongoDB • REST APIs
 
 ---
 
-# 🚀 Featured Projects
-
-### 📄 PDF.QA AI
-
-AI-powered document assistant using RAG for semantic search and question answering.
-
-**Tech:** Python • Flask • Sentence Transformers • ChromaDB • AWS
-
----
-
 ### 📊 Financial Analytics Dashboard
 
 Interactive Power BI dashboards for business insights and decision-making.
@@ -108,16 +98,6 @@ Interactive Power BI dashboards for business insights and decision-making.
 - Docker
 - Kubernetes
 - System Design
-
----
-
-# 📚 Currently Working On
-
-✅ PDF.QA AI
-
-✅ Deep Learning Projects
-
-✅ DSA & Competitive Programming
 
 ---
 
