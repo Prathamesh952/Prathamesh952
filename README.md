@@ -12,7 +12,7 @@ AI & Data Science Engineer | Python Developer | AWS Learner | Building AI Soluti
 
 ## 🚀 About Me
 
-🎓 Third Year B.E. Artificial Intelligence & Data Science
+🎓 B.E. Artificial Intelligence & Data Science (2023-27)
 
 💻 Passionate about Artificial Intelligence, Machine Learning and Cloud Computing
 
