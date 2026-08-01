@@ -1,16 +1,176 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prathamesh Shinde</h1>
 
-<!--
-**Prathamesh952/Prathamesh952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI & Data Science Engineer | Python Developer | AWS Learner | Building AI Solutions
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science;Python+Developer;RAG+%7C+Machine+Learning+%7C+AWS;Open+Source+Learner;Always+Learning+Something+New" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 Third Year B.E. Artificial Intelligence & Data Science
+
+💻 Passionate about Artificial Intelligence, Machine Learning and Cloud Computing
+
+🧠 Interested in RAG, NLP, LLMs and Intelligent Systems
+
+☁ Currently learning AWS, Bedrock, Docker and DevOps
+
+📈 Love solving real-world problems using AI
+
+🎯 Goal: Become an AI Engineer at a top product company
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Prathamesh952">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/prathamesh-shinde-33614b2b2/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:prathameshsshinde2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,c#,html,css,javascript,mysql"/>
+
+</p>
+
+### AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+- Machine Learning
+- Deep Learning
+- NLP
+- RAG
+- LLM Applications
+
+---
+
+### Cloud & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
+
+</p>
+
+Power BI • Tableau • Excel • SQL • MongoDB • REST APIs
+
+---
+
+# 🚀 Featured Projects
+
+### 📄 PDF.QA AI
+
+AI-powered document assistant using RAG for semantic search and question answering.
+
+**Tech:** Python • Flask • Sentence Transformers • ChromaDB • AWS
+
+---
+
+### 📊 Financial Analytics Dashboard
+
+Interactive Power BI dashboards for business insights and decision-making.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathamesh952&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh952&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Prathamesh952&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh952&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prathamesh952&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 💡 Currently Learning
+
+- AWS Bedrock
+- Multi-Agent AI Systems
+- LangChain
+- Docker
+- Kubernetes
+- System Design
+
+---
+
+# 📚 Currently Working On
+
+✅ PDF.QA AI
+
+✅ Deep Learning Projects
+
+✅ DSA & Competitive Programming
+
+---
+
+## ✨ Quote
+
+> "Success comes from consistency, curiosity, and continuous learning."
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Prathamesh952&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
