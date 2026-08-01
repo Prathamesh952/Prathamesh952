@@ -98,12 +98,6 @@ Power BI • Tableau • Excel • SQL • MongoDB • REST APIs
 
 ---
 
-### 📊 Financial Analytics Dashboard
-
-Interactive Power BI dashboards for business insights and decision-making.
-
----
-
 # 💡 Currently Learning
 
 - AWS Bedrock
