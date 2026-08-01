@@ -56,11 +56,11 @@ AI & Data Science Engineer | Python Developer | AWS Learner | Building AI Soluti
 
 </p>
 
-### AI / ML
+### Libraries
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,numpy,pandas,scikitlearn,matplotlib,seaborn"/>
 
 </p>
 
