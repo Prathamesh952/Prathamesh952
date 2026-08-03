@@ -106,6 +106,7 @@ Power BI • Tableau • Excel • SQL • MongoDB • REST APIs
 - Docker
 - Kubernetes
 - System Design
+- Terraform
 
 ---
 
